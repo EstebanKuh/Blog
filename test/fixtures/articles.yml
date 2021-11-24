@@ -1,9 +1,17 @@
 # Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
 
-one:
-  title: MyString
-  body: MyText
+ruby:
+  title: RubyTitle
+  body: RubyText
 
-two:
-  title: MyString
-  body: MyText
+rails:
+  title: RailsTitle
+  body: RailsText
+
+publicados:
+  title: PublicadosTitle
+  body: PublicadosText
+
+nopublicados:
+  title: NoPublicadosTitle
+  body: NoPublicadosText
